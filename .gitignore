@@ -1,0 +1,8 @@
+venv/
+data/
+Detailed/
+Summary/
+reports/
+.jupyter
+.ipynb_checkpoints
+__pycache__/
