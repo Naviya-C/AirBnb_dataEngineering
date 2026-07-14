@@ -25,13 +25,14 @@ The pipeline was developed using **Python**, **Polars**, **Pandas**, **DuckDB**,
 ```text
 airbnb_pipeline/
 │
+├── Melborne.Australia(This cover Question No.2)
 ├── data/
 │   ├── raw/
 │   ├── interim/
 │   ├── processed/
 │   └── warehouse/
 │
-├── pipeline/
+├── pipeline/(Coverts Question 3)
 │   ├── ingest.py
 │   ├── profile.py
 │   ├── quality.py
@@ -39,7 +40,7 @@ airbnb_pipeline/
 │   ├── enrich.py
 │   └── model.py
 │
-├── notebooks/
+├── notebooks/(Covers Question 4, 5, 6)
 │   ├── EDA.ipynb
 │   ├── Statistical_Analysis.ipynb
 │   └── Data_Science.ipynb
